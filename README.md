@@ -57,21 +57,5 @@ trip-website/
 - **JavaScript (`js/script.js`):** Handles gallery modal functionality and navigation bar interactions.
 - **CSS:** All styling is managed in the `css/` folder, with separate files for normalization, utilities, main styles, and responsive adjustments.
 
-## Customization
-- **Images:** Replace images in the `images/` folder to personalize the gallery and featured sections.
-- **Content:** Edit HTML files to update text, add new destinations, or modify blog posts.
-- **Styles:** Adjust CSS files to change colors, fonts, or layout.
-- **JavaScript:** Enhance interactivity by editing or adding scripts in `js/script.js`.
 
-## Setup Instructions
-1. **Download or clone the repository.**
-2. **Open `index.html` in your web browser.**
-3. **No build tools or dependencies required.**
 
-## Credits
-- [Font Awesome](https://fontawesome.com/) for icons
-- [Google Fonts](https://fonts.google.com/) for typography
-- [Normalize.css](https://necolas.github.io/normalize.css/) for CSS reset
-
-## License
-This project is provided for educational and demonstration purposes. Feel free to use and modify for personal or commercial projects.
